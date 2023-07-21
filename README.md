@@ -17,3 +17,15 @@ This update have the below solution for :
 - Unlock Locked LND wallet
 
 More solution will be update soon
+
+Update - 15/06/2023
+Version 1.5
+This update has the below solution for :
+- Update Umbrel issue
+- Plex’s ‘Not authorized’ error
+
+I have added a new section to help user with the possible issue that is listing in the app
+
+the "About" Section has been editing as well, adding in the alert for scammer so beware that they are trying their best to get hold of your crypto / seed.
+
+More solution will be update soon
