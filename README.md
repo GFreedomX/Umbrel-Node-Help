@@ -29,3 +29,7 @@ I have added a new section to help user with the possible issue that is listing 
 the "About" Section has been editing as well, adding in the alert for scammer so beware that they are trying their best to get hold of your crypto / seed.
 
 More solution will be update soon
+
+Update - 26/8/2023
+Version 1.5.2
+This update is to comply to meet target API level requirements to Google standard and some minor bug fix
